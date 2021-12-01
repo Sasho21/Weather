@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="open_weather_api_key">245af73dc04ba14c01163ec92f6601bb</string>
+</resources>
